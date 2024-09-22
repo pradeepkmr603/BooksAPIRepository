@@ -1,8 +1,5 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
 
-*.v2
-*.vsidx
-.vs/BooksNET8API/v17/.suo
-/.vs
-/.vs
-.vs/BooksNET8API/v17/.suo
-
+/.vs/BooksNET8API
