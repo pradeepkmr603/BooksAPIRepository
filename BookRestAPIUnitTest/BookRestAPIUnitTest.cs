@@ -26,10 +26,17 @@ namespace BookRestAPIUnitTest
         };
         Book toBePostedBook = new Book
         {
-            Name = "Federal Matters",
-            Genere = "Suspense",
-            PublisherName = "Harpers",
+            Id = 1,
+            Name = "English",
+            Genere = "12",
+            PublisherName = "gyan publisher",
         };
+        //Book toBePostedBook = new Book
+        //{
+        //    Name = "Federal Matters",
+        //    Genere = "Suspense",
+        //    PublisherName = "Harpers",
+        //};
         [Fact]
         public async Task GetBook_BasedOnId_WithNotExistingBook_ReturnNotFound()
         {
