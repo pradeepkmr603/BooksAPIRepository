@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BooksNET8API.Migrations
 {
     [DbContext(typeof(BookDBContext))]
-    [Migration("20240910173326_AddBooktoDB")]
-    partial class AddBooktoDB
+    [Migration("20240922125024_firstMigration")]
+    partial class firstMigration
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

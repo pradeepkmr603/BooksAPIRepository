@@ -257,6 +257,7 @@ D:\PRADEEP\StudyMaterial\Knowledge\CICD with DevOps AzureDB\BooksNET8API\BooksNE
 D:\PRADEEP\StudyMaterial\Knowledge\CICD with DevOps AzureDB\BooksNET8API\BooksNET8API\obj\Debug\net8.0\BooksNET8API.csproj.CoreCompileInputs.cache
 D:\PRADEEP\StudyMaterial\Knowledge\CICD with DevOps AzureDB\BooksNET8API\BooksNET8API\obj\Debug\net8.0\BooksNET8API.MvcApplicationPartsAssemblyInfo.cs
 D:\PRADEEP\StudyMaterial\Knowledge\CICD with DevOps AzureDB\BooksNET8API\BooksNET8API\obj\Debug\net8.0\BooksNET8API.MvcApplicationPartsAssemblyInfo.cache
+D:\PRADEEP\StudyMaterial\Knowledge\CICD with DevOps AzureDB\BooksNET8API\BooksNET8API\obj\Debug\net8.0\BooksNET8API.sourcelink.json
 D:\PRADEEP\StudyMaterial\Knowledge\CICD with DevOps AzureDB\BooksNET8API\BooksNET8API\obj\Debug\net8.0\staticwebassets.build.json
 D:\PRADEEP\StudyMaterial\Knowledge\CICD with DevOps AzureDB\BooksNET8API\BooksNET8API\obj\Debug\net8.0\staticwebassets.development.json
 D:\PRADEEP\StudyMaterial\Knowledge\CICD with DevOps AzureDB\BooksNET8API\BooksNET8API\obj\Debug\net8.0\staticwebassets\msbuild.BooksNET8API.Microsoft.AspNetCore.StaticWebAssets.props
