@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD with DevOps AzureDB\\BooksNET8API\\BooksNET8API\\BooksNET8API.csproj": {}
+    "D:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD with DevOps AzureDB\\BooksAPI\\BooksNET8API\\BooksNET8API.csproj": {}
   },
   "projects": {
-    "D:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD with DevOps AzureDB\\BooksNET8API\\BooksNET8API\\BooksNET8API.csproj": {
+    "D:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD with DevOps AzureDB\\BooksAPI\\BooksNET8API\\BooksNET8API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD with DevOps AzureDB\\BooksNET8API\\BooksNET8API\\BooksNET8API.csproj",
+        "projectUniqueName": "D:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD with DevOps AzureDB\\BooksAPI\\BooksNET8API\\BooksNET8API.csproj",
         "projectName": "BooksNET8API",
-        "projectPath": "D:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD with DevOps AzureDB\\BooksNET8API\\BooksNET8API\\BooksNET8API.csproj",
+        "projectPath": "D:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD with DevOps AzureDB\\BooksAPI\\BooksNET8API\\BooksNET8API.csproj",
         "packagesPath": "C:\\Users\\pradeep.kumar4\\.nuget\\packages\\",
-        "outputPath": "D:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD with DevOps AzureDB\\BooksNET8API\\BooksNET8API\\obj\\",
+        "outputPath": "D:\\PRADEEP\\StudyMaterial\\Knowledge\\CICD with DevOps AzureDB\\BooksAPI\\BooksNET8API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pradeep.kumar4\\AppData\\Roaming\\NuGet\\NuGet.Config",
